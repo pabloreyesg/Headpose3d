@@ -22,3 +22,21 @@ Instala las siguientes dependencias usando pip:
 
 ```bash
 pip install opencv-python mediapipe pandas pyarrow pylsl numpy
+```
+
+## Instrucciones rápidas
+
+Instala dependencias (si usarás el código fuente):
+
+```bash
+
+pip install opencv-python mediapipe pandas pyarrow pylsl numpy
+```
+
+### Ejecuta el sistema:
+
+```bash
+python head_tracker.py
+```
+
+**También puedes usar el ejecutable incluido si estás en Windows (head_tracker.exe)**
